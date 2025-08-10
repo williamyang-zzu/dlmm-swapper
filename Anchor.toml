@@ -6,7 +6,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-dlmm_swapper = "E1LAWkYRr9okMRrgAyK8GpcWWvrmqtJuDCsmwG1DkJvw"
+dlmm_swapper = "7QJCkDU8eEGtarKDNNbLgFCZLfp3QJuxJ8gkp1iLbSTc"
 
 [registry]
 url = "https://api.apr.dev"

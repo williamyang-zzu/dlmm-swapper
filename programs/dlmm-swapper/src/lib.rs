@@ -2,7 +2,7 @@ use anchor_lang::prelude::*;
 use anchor_spl::token::{self, Token, TokenAccount, Transfer};
 use anchor_lang::solana_program::{instruction::Instruction, program::invoke_signed};
 
-declare_id!("E1LAWkYRr9okMRrgAyK8GpcWWvrmqtJuDCsmwG1DkJvw"); // 替换为你的程序ID
+declare_id!("7QJCkDU8eEGtarKDNNbLgFCZLfp3QJuxJ8gkp1iLbSTc"); // 替换为你的程序ID
 
 #[program]
 pub mod dlmm_swapper {
